@@ -1,5 +1,5 @@
-var temp = 32;
-var unit = "F";
+var temp = 300;
+var unit = "C";
 var convertedTemp;
 
 if(unit === "F") {

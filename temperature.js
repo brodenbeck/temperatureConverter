@@ -1,4 +1,4 @@
-var fahrenheit = 0;
+var fahrenheit = 400;
 
 var celsius = 0;
 
